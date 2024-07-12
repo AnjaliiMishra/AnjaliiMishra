@@ -3,6 +3,8 @@
 </h1>
 </em>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Student+by+Day+;Competitive+Programmer+by+Night+;Web+Developer+Always)](https://git.io/typing-svg)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 </p>
@@ -21,14 +23,17 @@
   </p>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnjaliiMishra&label=Profile%20views&color=0e75b6&style=flat" alt="AnjaliiMishra" /> </p>
-<p>
-<img align= "center" alt= "stats card" height="200px" width="400" src="https://streak-stats.demolab.com/?user=AnjaliiMishra&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D">
+```yaml
+apiVersion: v21
+kind: Human
 
+metadata:
+  name: Anjali Mishra
 
-<p>
-</p>
-<img align= "center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliiMishra&theme=react&layout=compact&hide_border=true" />
-</p>
-</p>
+technologies:
+  code : C , C++ , Python , Java
+  FrontEnd : HTML , CSS , Js , React , Angular
+  BackEnd : SQL , Node
+   
+```
 
