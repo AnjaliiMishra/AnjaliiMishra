@@ -36,4 +36,19 @@ technologies:
   BackEnd : SQL , Node
    
 ```
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnjaliiMishra&label=Profile%20views&color=0e75b6&style=flat" alt="AnjaliiMishra" /> </p>
+<p><p>
+  <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
+</p>
+<img align= "center" alt= "stats card" height="200px" width="400" src="https://streak-stats.demolab.com/?user=AnjaliiMishra&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D">
+
+
+<p>
+</p>
+<img align= "center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliiMishra&theme=react&layout=compact&hide_border=true" />
+</p>
+
 
