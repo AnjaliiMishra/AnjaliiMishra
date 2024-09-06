@@ -3,7 +3,7 @@
 </h1>
 </em>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Student+by+Day+;Competitive+Programmer+by+Night+;Web+Developer+Always)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Student+by+Day;Competitive+Programmer+by+Night+;Passionate+learner+Always)](https://git.io/typing-svg)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
